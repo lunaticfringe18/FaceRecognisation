@@ -7,7 +7,9 @@ Our RealTime Database Attendance System with Face Recognition is an innovative p
 Using state-of-the-art Face Recognition algorithms, the system can accurately identify and verify individuals in real-time. When a person's face is detected, the system matches it against a pre-registered database, instantly recording their presence. The captured data is then securely stored in a centralized database for easy access and monitoring by authorized personnel.
 This system offers numerous benefits, including increased efficiency, reduced errors, and enhanced security. It is applicable in various domains such as educational institutions, corporate offices, conferences, and events. Moreover, it provides valuable insights into attendance patterns and trends, facilitating better decision-making processes.
 In conclusion, our RealTime Database Attendance System with Face Recognition brings cutting-edge technology to simplify attendance management, ensuring a seamless and productive experience for both administrators and attendees.
-![image](https://github.com/lunaticfringe18/FaceRecognisation/assets/108046649/88e9e743-45d3-43ad-ab5a-72a8747889ed)
+
+![image](https://github.com/lunaticfringe18/FaceRecognisation/assets/108046649/4b7d29ba-0ab3-4c44-b55f-72f37a597000)
+
 
 ## Features
 1.Real-time Face Recognition: Instantly identifies individuals and records attendance.
@@ -24,7 +26,8 @@ In conclusion, our RealTime Database Attendance System with Face Recognition bri
 4.Database (Googel Firebase).
 
 ## Images
-![image](https://github.com/lunaticfringe18/FaceRecognisation/assets/108046649/eaee3e95-56bb-4bdb-a47b-e5fd90633543)
+![image](https://github.com/lunaticfringe18/FaceRecognisation/assets/108046649/f6a7bc90-569b-44ad-9181-f5e6ed8be903)
+
 
 
 
